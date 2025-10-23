@@ -1,1 +1,1 @@
-[Chess Gif](chess.gif)
+![Chess Gif](chess.gif)
